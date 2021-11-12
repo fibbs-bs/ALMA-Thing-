@@ -1,0 +1,250 @@
+Ingeniero,17.424.391-9,3600000,6,Calle Via Lactea,N90
+Auxiliar,8.713.039-9,670000
+Astronomo,12.726.285-0,6600000,77,Calle Jupiter,N89
+Auxiliar,11.153.656-k,710000
+Ingeniero,11.781.665-0,3700000,5,Calle Via Lactea,N96
+Ingeniero,13.304.973-5,2700000,5,Calle Tierra,N54
+Auxiliar,16.677.776-2,660000
+Auxiliar,4.571.929-2,690000
+Ingeniero,11.563.495-4,4600000,5,Calle Via Lactea,N100
+Auxiliar,5.445.986-9,700000
+Auxiliar,5.019.169-2,700000
+Auxiliar,10.020.613-2,700000
+Astronomo,15.365.577-8,7100000,53,Calle Via Lactea,N90
+Ingeniero,7.645.437-9,3100000,5,Calle Tierra,N78
+Astronomo,4.380.704-5,7000000,21,Calle Jupiter,N89
+Ingeniero,7.833.021-2,3900000,6,Calle Via Lactea,N97
+Auxiliar,11.090.617-9,670000
+Auxiliar,17.491.630-7,690000
+Astronomo,15.852.900-6,7000000,80,Calle Via Lactea,N95
+Auxiliar,4.318.619-4,700000
+Astronomo,4.483.595-5,6600000,88,Calle Andromeda,N89
+Ingeniero,4.950.786-2,3300000,6,Calle Via Lactea,N91
+Ingeniero,11.198.541-3,3900000,8,Calle Tierra,N54
+Auxiliar,7.993.870-0,660000
+Ingeniero,13.046.531-4,3200000,8,Calle Andromeda,N98
+Auxiliar,17.080.570-7,670000
+Astronomo,17.045.693-9,7000000,16,Calle Jupiter,N69
+Astronomo,14.618.094-6,6500000,12,Calle Via Lactea,N98
+Astronomo,15.577.558-0,6500000,74,Calle Tierra,N78
+Ingeniero,11.746.585-k,4500000,7,Calle Via Lactea,N91
+Ingeniero,8.597.875-5,3600000,7,Calle Urano,N1
+Auxiliar,17.621.456-7,690000
+Auxiliar,12.162.890-4,670000
+Ingeniero,4.252.786-1,2700000,8,Calle Jupiter,N69
+Auxiliar,5.778.337-2,680000
+Auxiliar,7.795.158-6,650000
+Auxiliar,8.223.480-1,650000
+Ingeniero,11.066.807-k,2700000,5,Calle Tierra,N82
+Ingeniero,5.842.969-0,4800000,7,Calle Via Lactea,N97
+Ingeniero,9.316.192-4,4400000,8,Calle Via Lactea,N96
+Auxiliar,11.229.535-k,670000
+Astronomo,5.072.894-0,6900000,24,Calle Urano,N189
+Auxiliar,15.324.563-1,700000
+Astronomo,9.813.239-2,6700000,39,Calle Via Lactea,N97
+Ingeniero,6.923.894-4,4300000,5,Calle Tierra,N78
+Ingeniero,5.234.531-7,4700000,6,Calle Via Lactea,N91
+Auxiliar,8.362.648-9,710000
+Auxiliar,10.643.833-6,700000
+Ingeniero,9.610.041-4,4200000,7,Calle Urano,N1
+Auxiliar,10.629.318-1,670000
+Astronomo,6.773.089-2,6500000,42,Calle Via Lactea,N90
+Ingeniero,15.918.529-k,4300000,7,Calle Andromeda,N89
+Ingeniero,9.412.206-7,2800000,8,Calle Via Lactea,N92
+Astronomo,11.891.382-5,6900000,8,Calle Jupiter,N69
+Astronomo,9.536.228-7,6600000,43,Calle Via Lactea,N95
+Astronomo,16.141.922-5,7000000,80,Calle Via Lactea,N90
+Ingeniero,7.719.952-8,3300000,6,Calle Urano,N189
+Ingeniero,16.314.481-k,4300000,8,Calle Tierra,N54
+Auxiliar,12.088.351-8,710000
+Ingeniero,16.380.387-0,3000000,6,Calle Via Lactea,N100
+Auxiliar,13.588.194-8,680000
+Auxiliar,14.462.303-k,710000
+Auxiliar,13.577.353-3,700000
+Astronomo,7.944.948-1,6800000,23,Calle Andromeda,N81
+Ingeniero,4.610.373-5,2700000,6,Calle Via Lactea,N96
+Auxiliar,5.452.613-1,670000
+Auxiliar,12.136.015-9,660000
+Auxiliar,16.804.946-4,650000
+Ingeniero,8.175.101-0,4600000,5,Calle Via Lactea,N90
+Astronomo,16.842.010-0,7100000,15,Calle Via Lactea,N96
+Ingeniero,9.920.875-k,4600000,8,Calle Via Lactea,N90
+Auxiliar,7.327.231-1,690000
+Astronomo,14.463.477-9,6800000,82,Calle Andromeda,N98
+Ingeniero,4.806.627-7,4800000,8,Calle Via Lactea,N90
+Ingeniero,14.338.461-8,3000000,6,Calle Tierra,N82
+Astronomo,15.332.215-6,7100000,41,Calle Via Lactea,N95
+Astronomo,17.836.918-5,6900000,24,Calle Via Lactea,N93
+Ingeniero,10.856.208-4,2500000,7,Calle Andromeda,N89
+Ingeniero,6.012.578-2,3700000,7,Calle Via Lactea,N93
+Auxiliar,11.285.801-6,660000
+Astronomo,14.824.839-8,6800000,22,Calle Via Lactea,N92
+Auxiliar,7.429.183-3,670000
+Ingeniero,15.810.002-k,2800000,8,Calle Via Lactea,N98
+Ingeniero,6.086.661-5,3600000,5,Calle Urano,N189
+Auxiliar,16.630.702-7,650000
+Astronomo,5.446.577-4,6500000,41,Calle Urano,N189
+Astronomo,17.879.645-k,6900000,63,Calle Urano,N189
+Ingeniero,8.438.685-k,4100000,8,Calle Andromeda,N89
+Astronomo,8.326.664-7,7100000,60,Calle Urano,N1
+Auxiliar,17.545.847-7,650000
+Ingeniero,6.267.434-1,3400000,8,Calle Via Lactea,N95
+Auxiliar,13.808.579-5,700000
+Ingeniero,8.828.132-6,4400000,6,Calle Via Lactea,N90
+Auxiliar,4.661.457-8,690000
+Ingeniero,17.134.932-1,4800000,8,Calle Via Lactea,N92
+Ingeniero,8.914.539-5,4600000,5,Calle Andromeda,N98
+Astronomo,17.769.830-k,6700000,49,Calle Andromeda,N89
+Astronomo,10.943.124-0,6700000,48,Calle Via Lactea,N90
+Auxiliar,6.696.901-3,700000
+Astronomo,4.340.423-7,6500000,45,Calle Via Lactea,N98
+Astronomo,7.068.751-7,7000000,39,Calle Via Lactea,N96
+Astronomo,4.739.757-9,7000000,24,Calle Jupiter,N89
+Auxiliar,7.333.099-5,700000
+Auxiliar,14.073.235-1,680000
+Auxiliar,8.361.374-5,680000
+Astronomo,10.293.055-8,6500000,47,Calle Via Lactea,N100
+Astronomo,16.528.173-5,7100000,73,Calle Tierra,N54
+Astronomo,8.636.194-8,6800000,74,Calle Tierra,N82
+Ingeniero,9.933.619-1,2600000,8,Calle Via Lactea,N100
+Astronomo,5.510.776-9,7100000,61,Calle Jupiter,N89
+Auxiliar,5.607.953-2,680000
+Ingeniero,4.320.454-0,3800000,7,Calle Via Lactea,N100
+Auxiliar,4.481.593-5,680000
+Astronomo,5.787.846-8,6600000,55,Calle Via Lactea,N100
+Auxiliar,17.048.271-9,680000
+Auxiliar,14.266.707-1,690000
+Astronomo,16.417.009-9,6500000,42,Calle Jupiter,N69
+Astronomo,17.794.428-6,6500000,86,Calle Via Lactea,N93
+Astronomo,11.200.852-3,6800000,34,Calle Via Lactea,N94
+Astronomo,14.452.527-1,6700000,24,Calle Andromeda,N81
+Astronomo,5.651.911-8,6700000,36,Calle Andromeda,N98
+Astronomo,6.289.953-1,6700000,30,Calle Andromeda,N81
+Astronomo,10.375.114-1,6600000,50,Calle Urano,N189
+Astronomo,12.182.957-6,6900000,87,Calle Via Lactea,N90
+Ingeniero,12.862.665-8,3000000,5,Calle Jupiter,N89
+Ingeniero,14.082.785-9,2500000,8,Calle Via Lactea,N100
+Auxiliar,12.369.367-5,680000
+Astronomo,6.919.031-0,7100000,67,Calle Via Lactea,N91
+Auxiliar,17.572.145-4,710000
+Astronomo,11.576.094-2,6900000,33,Calle Tierra,N54
+Astronomo,4.099.032-k,6800000,37,Calle Via Lactea,N97
+Ingeniero,5.917.633-2,3500000,6,Calle Via Lactea,N93
+Ingeniero,5.829.988-1,4300000,8,Calle Andromeda,N89
+Astronomo,8.386.374-6,6700000,68,Calle Via Lactea,N90
+Auxiliar,13.543.909-0,670000
+Auxiliar,11.571.898-5,710000
+Ingeniero,5.407.668-9,4500000,6,Calle Via Lactea,N93
+Auxiliar,5.713.460-3,660000
+Auxiliar,13.453.860-4,660000
+Astronomo,17.355.798-3,6600000,87,Calle Tierra,N54
+Astronomo,9.155.831-1,6500000,73,Calle Tierra,N54
+Auxiliar,14.868.570-2,700000
+Ingeniero,17.887.245-9,4200000,6,Calle Tierra,N54
+Auxiliar,17.147.651-6,680000
+Ingeniero,15.844.548-5,2700000,6,Calle Urano,N189
+Astronomo,12.154.265-8,6600000,41,Calle Urano,N1
+Ingeniero,16.793.840-k,3200000,7,Calle Andromeda,N98
+Ingeniero,8.561.526-7,4000000,7,Calle Via Lactea,N91
+Astronomo,14.037.337-3,6900000,14,Calle Via Lactea,N94
+Astronomo,15.763.749-8,6900000,58,Calle Urano,N189
+Astronomo,8.292.310-3,6500000,21,Calle Via Lactea,N92
+Ingeniero,16.618.267-3,3900000,8,Calle Via Lactea,N98
+Astronomo,6.613.853-4,6700000,62,Calle Via Lactea,N90
+Auxiliar,12.281.720-6,680000
+Astronomo,9.943.919-7,6500000,55,Calle Via Lactea,N92
+Ingeniero,5.642.587-1,2900000,8,Calle Via Lactea,N92
+Auxiliar,13.009.735-1,690000
+Auxiliar,12.201.171-0,710000
+Auxiliar,11.501.593-5,690000
+Ingeniero,15.495.287-2,4600000,5,Calle Jupiter,N89
+Ingeniero,5.722.523-7,4200000,6,Calle Via Lactea,N96
+Astronomo,9.321.105-7,6700000,40,Calle Via Lactea,N91
+Auxiliar,13.336.959-4,680000
+Auxiliar,4.399.405-1,690000
+Auxiliar,13.658.210-3,700000
+Astronomo,15.565.930-3,7100000,32,Calle Jupiter,N69
+Astronomo,5.654.269-5,6500000,66,Calle Jupiter,N69
+Auxiliar,9.586.906-8,660000
+Auxiliar,14.028.432-k,680000
+Astronomo,12.209.610-7,6900000,63,Calle Andromeda,N98
+Auxiliar,12.453.847-0,650000
+Auxiliar,11.320.721-9,710000
+Ingeniero,10.960.529-5,3300000,5,Calle Jupiter,N69
+Auxiliar,17.600.842-4,690000
+Astronomo,13.603.707-7,6500000,68,Calle Via Lactea,N92
+Auxiliar,4.813.828-0,660000
+Auxiliar,9.977.884-0,690000
+Astronomo,6.336.785-8,6600000,16,Calle Via Lactea,N97
+Auxiliar,4.343.173-k,670000
+Auxiliar,5.223.810-5,660000
+Ingeniero,7.716.878-0,4100000,5,Calle Via Lactea,N92
+Ingeniero,8.337.100-4,3400000,8,Calle Andromeda,N89
+Astronomo,6.336.342-2,7000000,21,Calle Via Lactea,N92
+Auxiliar,9.710.893-9,710000
+Auxiliar,4.065.295-1,660000
+Astronomo,11.080.548-7,6600000,30,Calle Via Lactea,N100
+Ingeniero,7.695.565-6,4000000,8,Calle Tierra,N54
+Ingeniero,16.971.031-6,4600000,6,Calle Andromeda,N89
+Astronomo,5.861.778-5,6900000,42,Calle Via Lactea,N96
+Ingeniero,12.747.048-9,4800000,7,Calle Via Lactea,N94
+Auxiliar,9.487.692-8,650000
+Astronomo,7.821.723-1,6800000,45,Calle Urano,N189
+Ingeniero,15.324.938-5,3900000,5,Calle Via Lactea,N98
+Ingeniero,8.768.984-2,2700000,8,Calle Andromeda,N81
+Astronomo,10.311.670-1,7100000,25,Calle Tierra,N54
+Ingeniero,6.049.683-1,4600000,8,Calle Via Lactea,N90
+Astronomo,10.926.931-0,6800000,64,Calle Via Lactea,N97
+Astronomo,9.432.505-9,6800000,68,Calle Via Lactea,N100
+Auxiliar,16.834.734-3,700000
+Ingeniero,9.361.526-8,4200000,5,Calle Tierra,N54
+Ingeniero,6.530.049-2,4100000,5,Calle Via Lactea,N100
+Astronomo,8.017.371-0,6500000,89,Calle Via Lactea,N97
+Auxiliar,10.335.021-k,670000
+Ingeniero,10.403.158-2,3500000,6,Calle Jupiter,N89
+Auxiliar,8.890.396-9,700000
+Astronomo,16.960.132-2,6500000,7,Calle Jupiter,N89
+Astronomo,14.887.199-k,7100000,52,Calle Urano,N189
+Astronomo,7.159.756-6,7100000,23,Calle Tierra,N78
+Ingeniero,4.798.485-3,3800000,5,Calle Urano,N189
+Astronomo,16.138.604-4,7000000,53,Calle Jupiter,N89
+Ingeniero,4.343.984-7,3200000,5,Calle Jupiter,N89
+Ingeniero,13.190.654-8,3300000,5,Calle Tierra,N82
+Astronomo,4.452.816-2,6600000,60,Calle Andromeda,N81
+Astronomo,7.668.924-8,6600000,69,Calle Via Lactea,N93
+Ingeniero,4.999.088-6,3300000,5,Calle Urano,N1
+Auxiliar,8.178.225-3,690000
+Ingeniero,4.157.642-6,3000000,5,Calle Via Lactea,N93
+Ingeniero,13.052.401-6,4500000,6,Calle Via Lactea,N94
+Astronomo,12.506.958-0,7000000,13,Calle Via Lactea,N96
+Astronomo,9.696.661-8,6600000,46,Calle Via Lactea,N96
+Auxiliar,16.565.511-6,690000
+Astronomo,14.892.021-3,6500000,42,Calle Tierra,N78
+Astronomo,14.881.058-8,6700000,23,Calle Via Lactea,N94
+Ingeniero,12.618.219-k,4700000,6,Calle Urano,N189
+Ingeniero,8.048.140-3,3300000,5,Calle Jupiter,N69
+Ingeniero,7.722.637-4,4500000,5,Calle Via Lactea,N90
+Astronomo,7.552.280-9,6500000,83,Calle Andromeda,N98
+Astronomo,8.008.292-5,6800000,47,Calle Via Lactea,N98
+Auxiliar,12.451.204-k,700000
+Ingeniero,5.345.687-2,4700000,7,Calle Via Lactea,N93
+Astronomo,12.595.055-k,6900000,14,Calle Via Lactea,N95
+Ingeniero,7.470.669-9,3300000,8,Calle Tierra,N82
+Astronomo,17.371.040-7,6900000,88,Calle Tierra,N54
+Astronomo,15.712.795-8,7100000,15,Calle Andromeda,N98
+Ingeniero,12.661.935-9,4500000,6,Calle Tierra,N78
+Ingeniero,14.313.117-4,4400000,5,Calle Andromeda,N81
+Ingeniero,15.552.166-1,2800000,8,Calle Andromeda,N98
+Auxiliar,4.881.863-k,670000
+Ingeniero,16.331.706-8,3800000,8,Calle Via Lactea,N100
+Auxiliar,6.830.378-1,670000
+Auxiliar,12.036.315-0,660000
+Ingeniero,15.779.188-2,3300000,6,Calle Jupiter,N69
+Ingeniero,17.883.685-8,3100000,7,Calle Tierra,N82
+Auxiliar,8.604.026-k,670000
+Auxiliar,7.746.166-k,670000
+Auxiliar,11.896.521-5,680000
+Astronomo,14.427.362-8,7100000,7,Calle Tierra,N78
+Ingeniero,17.223.475-2,3600000,7,Calle Via Lactea,N90
+Ingeniero,16.762.852-8,3000000,8,Calle Urano,N1
+Ingeniero,10.897.391-7,3900000,8,Calle Jupiter,N89
